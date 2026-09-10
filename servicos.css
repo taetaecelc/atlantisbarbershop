@@ -1,0 +1,77 @@
+header{
+    background-color: rgb(15, 187, 255);
+    height: 150px;
+    padding: 20px 0;
+  
+    
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: beige;
+    font-size: 22px;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(3, 31, 107);
+    
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+
+}
+nav{
+    position: absolute;
+    top: 60px;
+    right: 0;
+}
+h1 img{
+    width: 300px;
+    
+    
+}
+.servicos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+
+}
+
+.servicos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.descricao {
+    font-size: 18px;
+    font-style: italic;
+
+}
+
+.preco{
+    font-size:22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    font-style: oblique;
+    color: rgb(168, 198, 224);
+}
+
+p{
+    color: rgb(168, 201, 230);
+}
