@@ -1,33 +1,112 @@
-h1{
-    color: rgb(8, 133, 235);
-    display: inline;
-    margin: 0 0 0 15px;
-      
-}
-
-
-body{
-    background-image: url("navy\ aesthetic\ __\ dark\ blue\ __\ navy\ nights.jpg"); /*imagem de fundo do site*/
-    /*background-color: rgb(183, 230, 214);*/
-    text-align: center;
-}
-img{
-    width: 500px;
-}
-.naruto{
-    text-decoration: nome;
-    color: rgb(88, 204, 250);
-}
-footer{
+header{
+    background-color: rgb(15, 187, 255);
+    height: 150px;
+    padding: 20px 0;
+  
     
 }
- p{
-    color: rgb(95, 183, 235);
- }
- h1 img {
-    width: 150px;
- }
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: beige;
+    font-size: 22px;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(3, 31, 107);
+    
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
 
-nav a{
-    color: rgb(197, 197, 164);
+}
+nav{
+    position: absolute;
+    top: 60px;
+    right: 0;
+}
+h1 img{
+    width: 300px;
+    
+    
+}
+.servicos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+
+}
+
+.servicos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.descricao {
+    font-size: 18px;
+    font-style: italic;
+
+}
+
+.preco{
+    font-size:22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    font-style: oblique;
+    color: rgb(168, 198, 224);
+}
+
+p{
+    color: rgb(168, 201, 230);
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(15, 187, 255);
+    padding: 40px 0;
+}
+
+footer img{
+    width: 200px;
+    margin-bottom: 20px;
+}
+footer p{
+    color: beige;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+form{
+    margin: 40px 0;
+}
+form label{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+    color: aliceblue;
+}
+form input{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
 }

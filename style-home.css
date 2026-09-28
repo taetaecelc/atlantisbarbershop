@@ -1,0 +1,33 @@
+h1{
+    color: rgb(8, 133, 235);
+    display: inline;
+    margin: 0 0 0 15px;
+      
+}
+
+
+body{
+    background-image: url("navy\ aesthetic\ __\ dark\ blue\ __\ navy\ nights.jpg"); /*imagem de fundo do site*/
+    /*background-color: rgb(183, 230, 214);*/
+    text-align: center;
+}
+img{
+    width: 500px;
+}
+.naruto{
+    text-decoration: nome;
+    color: rgb(88, 204, 250);
+}
+footer{
+    
+}
+ p{
+    color: rgb(95, 183, 235);
+ }
+ h1 img {
+    width: 150px;
+ }
+
+nav a{
+    color: rgb(197, 197, 164);
+}
