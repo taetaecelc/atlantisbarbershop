@@ -17,9 +17,7 @@ img{
     text-decoration: nome;
     color: rgb(88, 204, 250);
 }
-footer{
-    
-}
+
  p{
     color: rgb(95, 183, 235);
  }
@@ -46,4 +44,9 @@ header{
      background-color: rgb(15, 79, 255);
     height: 150px;
     padding: 20px 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
 }
