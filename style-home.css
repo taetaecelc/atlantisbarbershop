@@ -31,3 +31,13 @@ footer{
 nav a{
     color: rgb(197, 197, 164);
 }
+
+.menu{
+
+}
+
+header{
+     background-color: rgb(15, 79, 255);
+    height: 150px;
+    padding: 20px 0;
+}
