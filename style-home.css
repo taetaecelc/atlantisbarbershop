@@ -24,7 +24,11 @@ img{
  h1 img {
     width: 300px;
  }
-
+nav{
+    position: absolute;
+    top: 60px;
+    right: 0;
+}
 nav a{
     text-decoration: none;
     text-transform: uppercase;
@@ -49,4 +53,9 @@ header{
 nav li {
     display: inline;
     margin: 0 0 0 15px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(15, 79, 255);
+    padding: 40px 0;
 }
