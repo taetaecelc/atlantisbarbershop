@@ -31,7 +31,10 @@ nav a{
     color: rgb(197, 197, 164);
 }
 
-.menu{
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
 
 }
 
