@@ -28,7 +28,11 @@ footer{
  }
 
 nav a{
-    color: rgb(197, 197, 164);
+    text-decoration: none;
+    text-transform: uppercase;
+    color: beige;
+    font-size: 22px;
+    font-weight: bold;
 }
 
 .caixa{
