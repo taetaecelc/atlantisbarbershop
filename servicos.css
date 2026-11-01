@@ -75,3 +75,17 @@ h2{
 p{
     color: rgb(168, 201, 230);
 }
+footer{
+    text-align: center;
+    background-color: rgb(15, 79, 255);
+    padding: 40px 0;
+}
+footer img{
+    width: 200px;
+    margin-bottom: 20px;
+}
+footer p{
+    color: beige;
+    text-transform: uppercase;
+    font-weight: bold;
+}
